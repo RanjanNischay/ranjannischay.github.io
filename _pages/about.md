@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -46,4 +46,14 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+
+<!-- I am an assistant professor in the Department of Computer Science and Engineering at Goverment Enginnering College, Sheohar. Additionally, I am a Ph.D. candidate at Indian Institute of Technology, Hyderabad. My research interests broadly span parallel and distributed systems. I have been primarily focusing on Software Transactional Memory to develop a sound and effiecient framework which will support nesting of transactions.Additionally, I maintain a keen interest in Concurrent Data Structures, Blockchains, and Parallel Computing, pursuing research in these areas to contribute to advancements in the field. -->
+
+<!-- My research interests include Software Transactional Memory, Concurrent Data Structures, Blockchains, Parallel Computing, and Concurrent Programming. -->
+I am an Assistant Professor in the Department of Computer Science and Engineering at Government Engineering College, Sheohar, where I have been working since March 2024. Additionally, I am a Ph.D. candidate at the Indian Institute of Technology, Hyderabad, under the supervision of [Prof. Sathya Peri](https://people.iith.ac.in/sathya_p/). My research interests lie in parallel and distributed systems, with a primary focus on Software Transactional Memory (STM). I am working on developing a robust and efficient STM framework that supports the nesting of transactions.
+
+Prior to joining IIT Hyderabad, I completed my M.Tech in Computer Science and Engineering at the National Institute of Technology, Durgapur, under the supervision of [Dr. Sanjib Sadhu](https://nitdgp.ac.in/department/computer-science-engineering/faculty-1/sanjib-sadhu-1). Along with STM, I maintain a keen interest in Concurrent Data Structures, Blockchains, and Parallel Computing, and I actively pursue research in these areas to contribute to advancements in the field.
+
+From April 2024 to July 2024, I served as the Head of the Department at GEC Sheohar. Currently, I hold the position of In-charge of the Startup Cell at GEC Sheohar.
+
