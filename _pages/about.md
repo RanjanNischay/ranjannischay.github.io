@@ -57,3 +57,7 @@ Prior to joining IIT Hyderabad, I completed my M.Tech in Computer Science and En
 
 From April 2024 to July 2024, I served as the Head of the Department at GEC Sheohar. Currently, I hold the position of In-charge of the Startup Cell at GEC Sheohar.
 
+<p style="color: green; font-style: italic;">
+    Drop me an email if you are a motivated student with similar research interests and want to work with me.
+</p>
+
