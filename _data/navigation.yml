@@ -11,14 +11,14 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  # - title: "Teaching"
-  #   url: /teaching/   
-
   - title: "Teaching"
-    url: /teaching/
+    url: /teaching/   
 
-  - title: "Teaching Assistant Experience"
-    url: /teaching_assistant/ 
+  # - title: "Teaching"
+  #   url: /teaching/
+
+  # - title: "Teaching Assistant Experience"
+  #   url: /teaching_assistant/ 
     
   # - title: "Portfolio"
   #   url: /portfolio/
