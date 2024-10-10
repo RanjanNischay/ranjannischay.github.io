@@ -3,7 +3,7 @@ title: "An Efficient Framework for Supporting Nested Transaction in STM"
 collection: publications
 category: conferences
 permalink: https://link.springer.com/chapter/10.1007/978-3-031-67321-4_13
-excerpt: 'This paper is about developing an effoecient framework for STM which supports nested transactions.'
+excerpt: 'This paper is about developing an effiecient framework for STM which supports nested transactions.'
 date: 2024-04-22
 venue: 'NETYS, Rabat, Morocco'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
