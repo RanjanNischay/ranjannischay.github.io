@@ -22,9 +22,9 @@ At **G.E.C Sheohar**, I have taught the following courses:
 
 ### Courses Taught
 
-- **Computer Network (103804)**: (Taught during 2024)
-- **Programming for Problem Solving (100111)**: (Taught during 2024)
-- **Operating System (PCC CS 403)**: (Currently teaching in 2024)
-- **Introduction to I.T Workshop (100113)**: (Taught during 2024)
+- **Computer Network (103804)**: (Taught during 2024 in EE 8th Sem)
+- **Programming for Problem Solving (100111)**: (Taught during 2024 in CSE 1st Sem)
+- **Operating System (PCC CS 403)**: (Currently teaching in CSE 4th Sem)
+- **Introduction to I.T Workshop (100113)**: (Currently teaching in CSE 1st Sem)
 
 These are undergraduate-level courses designed for Computer Science and Engineering students. 
