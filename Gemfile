@@ -26,3 +26,28 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem "webrick", "~> 1.8"
 end
+
+# source "https://rubygems.org"
+
+# # Specify the Jekyll version you want to use
+# gem "jekyll", "~> 3.1.0" # Adjust this version as necessary
+# gem "github-pages", group: :jekyll_plugins
+
+# # For Windows compatibility
+# gem "wdm", "~> 0.1.0" if Gem.win_platform?
+
+# # Jekyll plugins
+# group :jekyll_plugins do
+#   gem "jekyll-feed"           # For RSS feeds
+#   gem "jekyll-sitemap"        # For generating sitemaps
+#   gem "hawkins"               # Additional plugin for customization
+#   gem "webrick", "~> 1.8"     # Required for Jekyll 4.x
+#   gem 'rexml'
+#   gem 'kramdown', '~> 1.3'
+
+
+#   # Add any other plugins you may need
+# end
+
+# # Uncomment the following line to use Jekyll native
+# # gem "jekyll"
