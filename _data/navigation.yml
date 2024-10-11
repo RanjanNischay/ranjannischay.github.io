@@ -45,5 +45,5 @@ main:
   - title: "Achievements"
     url: /achievements/
   
-  - title: "Gallery"
-    url: /gallery/
+  # - title: "Gallery"
+  #   url: /gallery/
