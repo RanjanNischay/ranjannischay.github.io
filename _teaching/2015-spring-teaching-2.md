@@ -3,7 +3,7 @@ title: "Teaching at GEC Sheohar"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "G.E.C Sheohar"
+venue: "GEC Sheohar"
 date: 2024-01-01
 location: "Sheohar, Bihar, India"
 ---

@@ -3,7 +3,7 @@ title: "Teaching Assitant"
 collection: teaching
 type: "Undergraduate course, Post Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "I.I.T Hyderabad, Department of CSE"
+venue: "IIT Hyderabad, Department of CSE"
 date: 2021-01-01
 location: "Hyderabad, India"
 ---

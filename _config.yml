@@ -21,7 +21,7 @@ repository               : "RanjanNischay/ranjannischay.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pic1.jpg"
   name             : "Nischay Ranjan"
   pronouns         : "He/him" # example: "she/her"  
   bio              : "Assistant Professor, CSE at GEC Sheohar; research in STM, Blockchains, Parallel Computing."
