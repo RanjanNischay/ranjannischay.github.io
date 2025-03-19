@@ -18,7 +18,7 @@ Heading 2
 
 Heading 3
 ====== -->
-At **G.E.C Sheohar**, I have taught the following courses:
+At **GEC Sheohar**, I have taught the following courses:
 
 ### Courses Taught
 

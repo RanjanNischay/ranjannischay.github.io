@@ -18,7 +18,7 @@ Heading 2
 
 Heading 3
 ====== -->
-As a teaching assistant at **I.I.T Hyderabad**, I assisted in the following courses:
+As a teaching assistant at **IIT Hyderabad**, I assisted in the following courses:
 
 ### Courses Assisted
 
