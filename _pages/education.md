@@ -20,6 +20,6 @@ Enrolled: 2021 - Present
 Completion: 2021
 
 ### B.Tech in Information Technology
-**Muzaffarpur Institute of Technology (M.I.T.), Muzaffarpur**  
+**Muzaffarpur Institute of Technology (M.I.T), Muzaffarpur**  
 Completion: 2018
 
