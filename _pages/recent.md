@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Recent Events
+- **December 2025:** The paper titled "Energy-Aware Cluster-Based Routing in IoT-Driven Next-GenerationWireless Sensor Networks" got accepted for publication at International Conference on Optical and Wireless Technologies (OWT 2025), 2025, Goa, India.
 - **October 2025:** Presented my work on the Nested transaction in the STM at SSS 2025, Kathmandu, Nepal.
 - **September 2025:** Completed NITTT Modules 1–4 National Initiative for Technical Teachers Training (AICTE).
 - **February 2025:** Successfully completed the Induction training program Phase - II, organized at NITTTR, Bhopal
