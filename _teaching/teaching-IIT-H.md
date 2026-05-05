@@ -1,8 +1,8 @@
 ---
-title: "Teaching Assitant"
+title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate course, Post Graduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/teaching-IIT-H.md
 venue: "IIT Hyderabad, Department of CSE"
 date: 2021-01-01
 location: "Hyderabad, India"
