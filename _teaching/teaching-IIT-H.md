@@ -9,7 +9,7 @@ location: "Hyderabad, India"
 ---
 
 
-====== -->
+
 At **Indian Institute of Technology (IIT) Hyderabad**, I served as a Teaching Assistant for multiple undergraduate and postgraduate courses in the Department of Computer Science and Engineering.
 
 ## Courses Assisted
