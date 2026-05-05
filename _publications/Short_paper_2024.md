@@ -2,11 +2,11 @@
 title: "An Efficient Framework for Supporting Nested Transaction in STM"
 collection: publications
 category: conferences
-permalink: https://link.springer.com/chapter/10.1007/978-3-031-67321-4_13
+permalink: /publication/Short_paper_2024
 excerpt: 'This paper is about developing an effiecient framework for STM which supports nested transactions.'
 date: 2024-04-22
 venue: 'NETYS, Rabat, Morocco'
-# paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-67321-4_13'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 # citation: 'Nischay Ranjan, Rohit Kapoor, and Sathya Peri. (2024). "An Efficient Framework for Supporting Nested Transaction in STMs." In <i>Networked Systems</i>, edited by Armando Castañeda, Constantin Enea, and Nirupam Gupta, pp. 204-210. Springer Nature Switzerland. DOI: [10.1007/978-3-031-67321-4_13](https://doi.org/10.1007/978-3-031-67321-4_13).'
 # <a href="https://doi.org/10.1007/978-3-031-67321-4_13" class="btn" target="_blank" rel="noopener noreferrer">DOI</a>
