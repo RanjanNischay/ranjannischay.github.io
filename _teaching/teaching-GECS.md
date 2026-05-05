@@ -4,11 +4,11 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "GEC Sheohar"
-date: 2024-01-01
+date: 2024-01-01 onwards
 location: "Sheohar, Bihar, India"
 ---
 
-At **GEC Sheohar**, I have taught the following courses:
+<!-- At **GEC Sheohar**, I have taught the following courses: -->
 
 ### Courses Taught
 
